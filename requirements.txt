@@ -1,0 +1,16 @@
+blinker
+click
+colorama
+dnspython
+Flask
+Flask-Login
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy
+pymongo
+scikit-learn
+scipy
+threadpoolctl
+Werkzeug
