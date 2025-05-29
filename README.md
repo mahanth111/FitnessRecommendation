@@ -41,7 +41,7 @@ This is a Flask web application that provides personalized health recommendation
 
 ---
 
-## Setup Instructions (Windows)
+## Setup Instructions 
 
 ### Step 1: Install Docker Desktop
 
